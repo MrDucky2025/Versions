@@ -1,3 +1,1 @@
 Roblox Version: version-89b6c70d8f7f42ac
-
-Executor Version: 1.0.0
